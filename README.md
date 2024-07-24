@@ -1,4 +1,4 @@
 # resume
 this is my resume
 <br>
-Author - Javed Alam
+Author - Javed Alam (student)
